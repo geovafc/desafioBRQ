@@ -18,6 +18,8 @@
 - Obter jogada por número do jogador e jogada: utilizar o endpoint http://localhost:8080/api/playerMovements/{number}/{option} , onde {number} é o número do jogador   e option é a escolha do jogador   ;
 - Remover jogada por  número do jogador e jogada: utilizar o endpoint http://localhost:8080/api/playerMovements/{number}/{option} , onde {number} é o número do jogador   e option é a escolha do jogador   ;
 
+- Para jogar é necessário utilizar o endpoint: http://localhost:8080/api/play   ;
+
 
 
 
